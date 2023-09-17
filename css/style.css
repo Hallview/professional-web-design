@@ -12,14 +12,6 @@ body{
     overflow:hidden;
 }
 
-/* .container-image::before {
-    content: '';
-    background: url('../img/pexels-lisa-fotios-1006293.jpg');
-    position:absolute;
-    top:0px;
-    left:0px;
-} */
-
 .container-image {
     background: url('../img/pexels-lisa-fotios-1006293.jpg') no-repeat;
     background-size: cover;
